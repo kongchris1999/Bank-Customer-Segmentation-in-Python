@@ -1,7 +1,7 @@
 # Bank-Customer-Segmentation-in-Python
 This project uses K-Means Clustering to segment bank customers based on key features such as number of products, balance, and geography.
 
-## Project Objectives
+## Objectives
 
 ### Objective 1: Prepare the Data for Modeling
 - Read the `Bank_Churn.csv` file and preview the top 5 rows.
