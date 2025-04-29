@@ -3,7 +3,7 @@ This project uses K-Means Clustering to segment bank customers based on key feat
 ## Project Objectives
 
 ### Objective 1: Prepare the Data for Modeling
-- **a)** Read the `Bank_Churn.csv` file and preview the top 5 rows.
+- **** Read the `Bank_Churn.csv` file and preview the top 5 rows.
 - **b)** Create a DataFrame containing all fields except `"CustomerId"`, `"Surname"`, and `"Exited"`.
 - **c)** Make all text fields numeric.
 - **d)** Explore the data by looking at the min/max values and the distribution of each column.
